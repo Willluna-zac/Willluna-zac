@@ -14,6 +14,7 @@
 - ⚛️ Modern UIs with **React + TypeScript**
 - 🅰️ Enterprise apps with **Angular** and **Material UI**
 - 💚 Reactive interfaces with **Vue**
+- 🚀 Currently learning **backend** with **Go (Gin)** and **Node.js**
 - 🎨 Styling with **TailwindCSS** and responsive design
 - ⚙️ APIs and services in **Go** (Gin, hexagonal architecture)
 - 🧪 Testing with **Vitest / Testing Library**
@@ -58,6 +59,7 @@ class WhoAmI {
   role = "Frontend Developer";
   stack = ["TypeScript", "React", "Angular", "Vue", "Go", "Tailwind", "Material UI"] as const;
   currentlyLearning = ["Graph algorithms", "Hexagonal architecture in Go"];
+  learningBackend = ["Go (Gin)", "Node.js", "REST APIs", "Firebase", "Clean Architecture"];
   hobbies = ["Anime 🍿", "One Piece 🏴‍☠️", "Video games 🎮", "Hunting bugs at 2 AM 🐛"];
 
   getMotto(): string {
@@ -78,8 +80,12 @@ class WhoAmI {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Willluna-zac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willluna-zac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <a href="https://github.com/Willluna-zac">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Willluna-zac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Willluna-zac">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Willluna-zac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
